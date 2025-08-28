@@ -20,9 +20,7 @@
 Mini game interativo inspirado no clássico Mario e Donkey Kong.  
 🔹 Tecnologias: HTML, CSS e JavaScript.  
 
-### 💰 [Calculadora de Orçamento Pessoal](https://github.com/Celso0liveira/calculadora-orcamento)  
-Aplicação web para registrar despesas e visualizar um resumo mensal.  
-🔹 Tecnologias: React, JavaScript (ES6+), HTML5 e CSS3.  
+--- 
 
 #### O que aprendi:
 - **Gerenciamento de Estado:** utilização do *hook* `useState` para controlar os dados da aplicação de forma reativa;  
