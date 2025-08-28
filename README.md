@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Celso Oliveira!
 
-💻 Desenvolvedor em constante evolução, apaixonado por tecnologia, programação e criação de soluções criativas.  
-📚 Atualmente estudando e desenvolvendo projetos para aprimorar minhas habilidades.  
-
+💻 Desenvolvedor em constante evolução, dedicado a aprender continuamente e aplicar o conhecimento para criar soluções inovadoras.
+📚 Atualmente estudando e desenvolvendo projetos para aprimorar minhas habilidades.
 ---
 
 ## 🚀 Tecnologias e Ferramentas
